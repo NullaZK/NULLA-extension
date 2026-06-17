@@ -3,10 +3,10 @@
 ## How to install in Chrome (Developer Mode)
 
 ### Step 1 — Download the release
-Download `nulla-extension-v0.62.6.zip` from the [GitHub Releases](../../releases) page.
+Download `nulla-extension-v1.zip` from the [GitHub Releases](../../releases) page.
 
 ### Step 2 — Unzip
-Extract the zip to a folder on your computer, e.g. `nulla-extension-v0.62.6/`.
+Extract the zip to a folder on your computer, e.g. `nulla-extension-v1/`.
 
 ### Step 3 — Open Chrome Extensions page
 In Chrome, navigate to:
